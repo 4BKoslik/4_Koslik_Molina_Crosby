@@ -1378,3 +1378,169 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.11-14.47.02:808][212]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/BPI_Damageable.BPI_Damageable
 [2022.02.11-14.47.02:808][212]LogContentValidation: Display: Validating WidgetBlueprint /Game/2DSideScrollerBP/Blueprints/BP_Death.BP_Death
 [2022.02.11-14.47.02:809][212]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/BP_PlayerController.BP_PlayerController
+[2022.02.11-14.49.33:259][617]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/BPI_Damageable.BPI_Damageable
+[2022.02.11-14.49.35:876][897]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-14.49.35:876][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-14.49.38:198][ 79]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/2DSideScrollerBP/Blueprints/BP_Death.BP_Death
+[2022.02.11-14.49.42:950][604]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-14.49.42:950][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-14.49.42:955][604]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-14.49.42:955][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-14.50.57:894][124]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode
+[2022.02.11-14.50.59:880][310]BlueprintLog: New page: Compile 2DSideScrollerGameMode
+[2022.02.11-14.50.59:916][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.02.11-14.50.59:963][310]LogSlate: Took 0.013777 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.02.11-14.51.01:684][496]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.02.11-14.51.29:398][320]BlueprintLog: New page: Compile 2DSideScrollerGameMode
+[2022.02.11-14.51.29:429][320]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.02.11-14.51.30:549][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.02.11-14.51.30:678][431]LogSavePackage: Moving '../../../../../4_Koslik_Molina_Crosby/Vesteria/Saved/2DSideScrollerGameModeF8EB0E68474905BD50C893891B72C6F9.tmp' to '../../../../../4_Koslik_Molina_Crosby/Vesteria/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset'
+[2022.02.11-14.51.30:689][431]AssetCheck: New page: Asset Save: 2DSideScrollerGameMode
+[2022.02.11-14.51.30:689][431]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode
+[2022.02.11-14.52.11:652][377]BlueprintLog: New page: Compile 2DSideScrollerGameMode
+[2022.02.11-14.52.11:681][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.02.11-14.52.13:474][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.02.11-14.52.13:608][583]LogSavePackage: Moving '../../../../../4_Koslik_Molina_Crosby/Vesteria/Saved/2DSideScrollerGameMode55B32F6847DFB67575BE8E94CC7724E5.tmp' to '../../../../../4_Koslik_Molina_Crosby/Vesteria/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset'
+[2022.02.11-14.52.13:618][583]AssetCheck: New page: Asset Save: 2DSideScrollerGameMode
+[2022.02.11-14.52.13:619][583]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode
+[2022.02.11-14.53.34:822][720]BlueprintLog: New page: Compile 2DSideScrollerGameMode
+[2022.02.11-14.53.34:853][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.02.11-14.53.37:062][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.02.11-14.53.37:197][951]LogSavePackage: Moving '../../../../../4_Koslik_Molina_Crosby/Vesteria/Saved/2DSideScrollerGameMode9E4544494EAAF8B36E8A90BA07DEFBAE.tmp' to '../../../../../4_Koslik_Molina_Crosby/Vesteria/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset'
+[2022.02.11-14.53.37:207][951]AssetCheck: New page: Asset Save: 2DSideScrollerGameMode
+[2022.02.11-14.53.37:207][951]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode
+[2022.02.11-14.54.06:337][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.02.11-14.54.06:467][455]LogSavePackage: Moving '../../../../../4_Koslik_Molina_Crosby/Vesteria/Saved/2DSideScrollerGameMode461EBB934E6B488E5E11E295435FFF0C.tmp' to '../../../../../4_Koslik_Molina_Crosby/Vesteria/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset'
+[2022.02.11-14.54.06:479][455]AssetCheck: New page: Asset Save: 2DSideScrollerGameMode
+[2022.02.11-14.54.06:479][455]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode
+[2022.02.11-14.54.06:775][491]BlueprintLog: New page: Compile 2DSideScrollerGameMode
+[2022.02.11-14.54.06:806][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.02.11-14.54.20:363][497]BlueprintLog: New page: Compile 2DSideScrollerGameMode
+[2022.02.11-14.54.20:394][497]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.02.11-14.54.21:620][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.02.11-14.54.21:750][631]LogSavePackage: Moving '../../../../../4_Koslik_Molina_Crosby/Vesteria/Saved/2DSideScrollerGameMode151028C445137C19416BD9B23BF2AD7F.tmp' to '../../../../../4_Koslik_Molina_Crosby/Vesteria/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset'
+[2022.02.11-14.54.21:762][631]AssetCheck: New page: Asset Save: 2DSideScrollerGameMode
+[2022.02.11-14.54.21:762][631]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode
+[2022.02.11-14.54.37:490][265]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_31)
+[2022.02.11-14.54.40:208][585]Cmd: DELETE
+[2022.02.11-14.54.40:208][585]Cmd: ACTOR DELETE
+[2022.02.11-14.54.40:209][585]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2022.02.11-14.54.40:228][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.02.11-14.54.40:230][585]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2022.02.11-14.54.41:545][738]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.11-14.54.41:550][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.11-14.54.41:550][738]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 11, 2022, 4:54:41 AM)
+[2022.02.11-14.54.41:573][738]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.02.11-14.54.41:576][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002926s)
+[2022.02.11-14.54.41:577][738]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.02.11-14.54.41:577][738]LogPlayLevel: PIE: World Init took: (0.001273s)
+[2022.02.11-14.54.41:577][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004370s)
+[2022.02.11-14.54.41:598][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.02.11-14.54.41:598][738]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.02.11-14.54.41:598][738]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.11-14.54.41:598][738]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.11-14.54.41:598][738]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.11-14.54.41:598][738]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.11-14.54.41:599][738]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.11-14.54.41:599][738]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.11-14.54.41:599][738]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.11-14.54.41:599][738]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.11-14.54.41:599][738]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.11-14.54.41:599][738]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.11-14.54.41:603][738]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-14.54.41:603][738]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-14.54.41:684][738]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.02.11-14.54.41:684][738]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.11-14.54.41:684][738]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.11-14.54.41:684][738]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.11-14.54.41:684][738]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.11-14.54.41:684][738]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.11-14.54.41:684][738]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.11-14.54.41:696][738]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.11-14.54.41:696][738]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.11-14.54.41:696][738]LogInit: FAudioDevice initialized.
+[2022.02.11-14.54.41:696][738]LogAudio: Display: Audio Device (ID: 4) registered with world '2DSideScrollerExampleMap'.
+[2022.02.11-14.54.41:708][738]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.02.11-14.54.41:710][738]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2022.02.11-09.54.41
+[2022.02.11-14.54.41:710][738]LogWorld: Bringing up level for play took: 0.000889
+[2022.02.11-14.54.41:710][738]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.02.11-14.54.41:712][738]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.02.11-14.54.41:712][738]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.02.11-14.54.41:712][738]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.02.11-14.54.41:713][738]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.02.11-14.54.41:713][738]PIE: Server logged in
+[2022.02.11-14.54.41:714][738]PIE: Play in editor total start time 0.165 seconds.
+[2022.02.11-14.54.48:084][502]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.02.11-14.54.48:084][502]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.02.11-14.54.48:084][502]LogGameMode: ProcessServerTravel: ?Restart
+[2022.02.11-14.54.48:092][503]LogEngine: Server switch level: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap?Restart
+[2022.02.11-14.54.48:092][503]LogNet: Browse: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap?Restart
+[2022.02.11-14.54.48:092][503]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2022.02.11-14.54.48:092][503]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.02.11-14.54.48:093][503]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-14.54.48:093][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-14.54.48:177][503]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.11-14.54.48:179][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.02.11-14.54.48:180][503]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.02.11-14.54.48:183][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002810s)
+[2022.02.11-14.54.48:184][503]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.02.11-14.54.48:184][503]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2022.02.11-14.54.48:184][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003975s)
+[2022.02.11-14.54.48:184][503]LogAudio: Display: Audio Device (ID: 4) registered with world '2DSideScrollerExampleMap'.
+[2022.02.11-14.54.48:184][503]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.02.11-14.54.48:186][503]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2022.02.11-09.54.48
+[2022.02.11-14.54.48:186][503]LogWorld: Bringing up level for play took: 0.000648
+[2022.02.11-14.54.48:187][503]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.02.11-14.54.48:187][503]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.02.11-14.54.48:187][503]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.02.11-14.54.48:187][503]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.02.11-14.54.48:187][503]LogLoad: Took 0.094875 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap)
+[2022.02.11-14.54.49:528][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-14.54.49:529][658]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.02.11-14.54.49:529][658]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-14.54.49:529][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-14.54.49:544][658]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.11-14.54.49:549][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-14.54.49:568][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-14.54.49:568][658]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-14.54.49:569][658]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-14.54.49:587][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.02.11-14.54.49:603][659]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.02.11-14.54.51:424][873]Cmd: TRANSACTION UNDO
+[2022.02.11-14.54.51:424][873]LogEditorTransaction: Undo Delete Actors
+[2022.02.11-14.54.56:178][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.02.11-14.55.14:630][569]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-14.55.14:630][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-14.56.24:093][896]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.02.11-14.56.54:560][277]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Content: 'C:/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/4_Koslik_Molina_Crosby'
+[2022.02.11-14.56.54:560][277]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/4_Koslik_Molina_Crosby'
+[2022.02.11-14.56.54:560][277]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/4_Koslik_Molina_Crosby'
+[2022.02.11-14.56.54:560][277]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/4_Koslik_Molina_Crosby'
+[2022.02.11-14.56.54:560][277]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/4_Koslik_Molina_Crosby'
+[2022.02.11-14.56.54:560][277]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/4_Koslik_Molina_Crosby'
+[2022.02.11-14.56.54:560][277]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/4_Koslik_Molina_Crosby'
+[2022.02.11-14.56.54:560][277]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/4_Koslik_Molina_Crosby'
+[2022.02.11-14.56.54:560][277]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/4_Koslik_Molina_Crosby'
+[2022.02.11-14.56.54:560][277]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/4_Koslik_Molina_Crosby'
+[2022.02.11-14.56.54:560][277]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/4_Koslik_Molina_Crosby'
+[2022.02.11-14.56.54:560][277]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/4_Koslik_Molina_Crosby'
+[2022.02.11-14.56.54:560][277]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/4_Koslik_Molina_Crosby'
+[2022.02.11-14.56.54:560][277]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/4_Koslik_Molina_Crosby'
+[2022.02.11-14.56.54:560][277]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/4_Koslik_Molina_Crosby'
+[2022.02.11-14.56.54:560][277]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/4_Koslik_Molina_Crosby'
+[2022.02.11-14.56.54:560][277]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/4_Koslik_Molina_Crosby'
+[2022.02.11-14.56.54:560][277]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/4_Koslik_Molina_Crosby'
+[2022.02.11-14.56.54:560][277]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/4_Koslik_Molina_Crosby'
+[2022.02.11-14.56.54:560][277]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/4_Koslik_Molina_Crosby'
+[2022.02.11-14.56.54:560][277]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/4_Koslik_Molina_Crosby'
+[2022.02.11-14.56.54:820][277]LogSavePackage: Moving '../../../../../4_Koslik_Molina_Crosby/Vesteria/Saved/2DSideScrollerGameMode4954C8A747F4B7E65B6E00A7060C14B9.tmp' to '../../../../../4_Koslik_Molina_Crosby/Vesteria/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset'
+[2022.02.11-14.57.07:757][277]LogSlate: Window 'Submit Files' being destroyed
+[2022.02.11-14.57.08:108][277]LogSourceControl: commit successful: [4_KoslikB_Progammer 78bd465] Fall Death
+[2022.02.11-14.57.08:195][277]SourceControl: [4_KoslikB_Progammer 78bd465] Fall Death
+[2022.02.11-14.57.08:195][277]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2022.02.11-14.57.08:195][277]SourceControl:  rewrite Vesteria/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset (86%)
+[2022.02.11-14.57.08:203][277]SourceControl: Commited [4_KoslikB_Progammer 78bd465] Fall Death.
+[2022.02.11-14.57.08:228][278]AssetCheck: New page: Asset Save: 2DSideScrollerGameMode
+[2022.02.11-14.57.08:228][278]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode
+[2022.02.11-14.57.11:599][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.02.11-14.57.11:607][342]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.024
